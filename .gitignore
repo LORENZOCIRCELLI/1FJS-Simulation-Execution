@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Additional
+
+data/analysis
+data/processing
+data/figures
